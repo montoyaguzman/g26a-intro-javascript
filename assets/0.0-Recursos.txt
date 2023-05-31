@@ -1,0 +1,22 @@
+HTML:
+
+    Curso de HTML y CSS - Codecademy: Codecademy ofrece un curso interactivo y gratuito de HTML y CSS para principiantes. Puedes acceder a él en el siguiente enlace: https://www.codecademy.com/learn/learn-html-css
+
+    "HTML & CSS: Design and Build Websites" (HTML y CSS: Diseño y Construcción de Sitios Web) de Jon Duckett: Este libro es altamente recomendado para aprender HTML y CSS desde cero. Proporciona una introducción clara y visualmente atractiva a estos lenguajes de marcado. Puedes encontrarlo en librerías en línea o físicas.
+
+CSS:
+
+    Curso de CSS - Platzi: Platzi ofrece un curso completo de CSS que abarca desde los fundamentos hasta técnicas avanzadas. Puedes acceder al curso en su plataforma de educación en línea: https://platzi.com/cursos/css-grid-layout/
+
+    "CSS Secrets" (Secretos de CSS) de Lea Verou: Este libro explora técnicas y trucos avanzados de CSS que te ayudarán a mejorar tus habilidades de diseño y desarrollo web. Es una lectura recomendada para aquellos que ya tienen conocimientos básicos de CSS.
+
+JavaScript:
+
+    Curso de JavaScript - freeCodeCamp: freeCodeCamp ofrece un completo currículo de JavaScript en su plataforma, que incluye videos y ejercicios interactivos. Puedes acceder a los recursos de forma gratuita en su página web: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+
+    "You Don't Know JS" (No conoces JS) de Kyle Simpson: Esta serie de libros cubre de manera exhaustiva los conceptos fundamentales y avanzados de JavaScript. Los libros están disponibles de forma gratuita en línea en el siguiente enlace: https://github.com/getify/You-Dont-Know-JS
+
+Lógica de programación:
+
+    Curso de Lógica de Programación - Programación ATS: https://www.youtube.com/playlist?list=PLNfwE1T9t7mOqGZnAY51tAyTNL9hE-ef3
+    "Algoritmos: diseño y resolución" (libro) - Juan Luis Sierra: https://www.amazon.es/Algoritmos-dise%C3%B1o-resoluci%C3%B3n-Juan-Sierra/dp/8497320817
