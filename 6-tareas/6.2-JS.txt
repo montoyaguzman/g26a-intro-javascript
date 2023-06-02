@@ -1,0 +1,11 @@
+Que es JavaScript?
+Lenguaje de programacion para la hacer desarrollo web
+NO ES LO MISMO JAVA
+
+
+Caracteristicas
+* POO/OOP 
+* interpretado
+* alto de nivel
+
+

@@ -27,7 +27,7 @@ Este documento es una **sintesis de la kata** (clases, campus, tareas y proyecto
 
 #### **¿Qué es la programación?**
 
-Es ula creación de software para resolver problemas existentes o nuevos de la vida mediante código que contiene instrucciones claras (compuestas de entradas, procesos y salidas).
+Es la creación de software para resolver problemas existentes o nuevos de la vida mediante código que contiene instrucciones claras (compuestas de entradas, procesos y salidas).
 
 working...
 
