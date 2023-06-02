@@ -45,7 +45,7 @@ var transferAmount = 900;
 var isMayor = false;
 console.log(isMayor);
 
-// Objeto
+// Objeto: Para agrupar varios datos que le pertenecen a una entidad
 // key: valor
 // atributo: valor
 // llave: valor
@@ -62,7 +62,7 @@ console.log(student);
 // studentName
 console.log(student.name);
 
-// array
+// array: Represantar listas de cosas
 var fruits = [
     'apple', // 0
     'watermelon', // 1 
@@ -74,3 +74,7 @@ console.log(fruits);
 console.log(fruits[2]);
 
 // array de objetos
+var movies = [
+ { name: 'harry potter', director: 'juanito', actors: ['daniel', 'emma'] },
+ { name: 'avengers', director: 'juanito2', actors: [ { name: 'chris', age: 40 }, { name: 'robert', age: 55 } ] },
+];
