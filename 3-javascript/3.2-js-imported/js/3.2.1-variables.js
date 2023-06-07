@@ -56,7 +56,7 @@ var student = {
     app: 'bustamante', 
     apm: 'valenzuela', 
     age: 20, 
-    isMayor: true, 
+    isMayor: true, // trailling commas
 };
 console.log(student);
 // studentName

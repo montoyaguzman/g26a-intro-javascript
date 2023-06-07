@@ -1,0 +1,6 @@
+Leer y realizar ejemplos sobre
+NaN
+undefined
+null
+
+que son, cuando usarlos, si son iguales entre si o no, ejemplos uso
