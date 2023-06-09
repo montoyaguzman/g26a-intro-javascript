@@ -9,4 +9,6 @@ Resolver con while y con for los siguientes problemas
 2. Calcular el factorial de un numero ingresado por el usuario
 3. Fibonacci
     Imprimir hasta el 100
+
+
  

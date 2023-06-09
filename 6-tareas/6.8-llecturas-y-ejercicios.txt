@@ -1,0 +1,2 @@
+Consultar y checar DOM en w3schools
+https://www.w3schools.com/jsref/dom_obj_document.asp
