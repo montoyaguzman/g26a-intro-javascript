@@ -33,8 +33,7 @@ Crear una aplicación web para un cliente de banco con HTML, CSS y JS. Por ejemp
 3. Desplegar en githubpages.
 4. Introducir fuentes e iconos de algun cdn (font awesome, google fonts, etc).
 5. Investigar y explicar como y porque es bueno utilizar la optimizacion de imagenes para nuestros sitios web.
-6. Con base en la tarea 6.8 investigar 1 cosa de accesibilidad que pueda implementar.
-
+6. Investigar 1 cosa de accesibilidad y ver como la pueden implementar que pueda implementar.
 
 **Formato de la presentacion**
 
