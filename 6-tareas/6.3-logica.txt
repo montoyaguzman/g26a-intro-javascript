@@ -1,0 +1,5 @@
+Los siguientes 3 problemas resolver con lenguaje natural, diagrama de flujo y pseudocodigo.
+
+1. Suma de dos numeros.
+2. Diferenciar entre 3 numeros ingresados por el usuario cual es el menor, el de enmedio y el mayor.
+3. ???
